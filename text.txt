@@ -1,1 +1,4 @@
 Some bolt text 4
+
+More text added
+
