@@ -1,2 +1,2 @@
-Some bolt text 2
+Some bolt text 3
 More text added
